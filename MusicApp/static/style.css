@@ -1,0 +1,48 @@
+body {
+  font-family: 'Sofia', sans-serif;
+}
+
+.music-player {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin: 20px;
+}
+
+.cover img {
+  max-width: 100%;
+  height: auto;
+}
+
+.titre {
+  text-align: center;
+  margin-top: 10px;
+}
+
+.titre h3 {
+  font-size: 1.2em;
+  margin: 0;
+}
+
+.titre h1 {
+  font-size: 2em;
+  margin: 0;
+}
+
+.lecteur {
+  width: 100%;
+  margin-top: 20px;
+}
+
+.right-section {
+  margin-top: 20px;
+}
+
+.lyrics-container {
+  margin-top: 20px;
+}
+
+.lyrics {
+  font-size: 1em;
+  line-height: 1.5em;
+}
